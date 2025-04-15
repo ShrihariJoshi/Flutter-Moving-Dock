@@ -8,3 +8,4 @@ A Mac-OS Style Dock.
 - Customizable Dock. The users can add or remove icons by managing the icons list.
 - Smooth animations for reordering of icons.
 
+# Deployed live at https://shriharijoshi.github.io/Flutter-Moving-Dock/
